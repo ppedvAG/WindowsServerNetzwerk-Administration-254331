@@ -1,0 +1,15 @@
+Übung:
+2 Freigaben
+
+Freigabe1
+Name:Rechnungen
+Read:
+Write:GL-Buchhaltung
+Full: Domänen-Admins
+
+Freigabe2
+Name:Lieferscheine
+Read:GL-Buchhaltung
+Write:GL-Einkauf
+Full: Domänen-Admins
+
